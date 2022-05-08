@@ -75,14 +75,13 @@ social:
    link: uploads/CV_Cesar Castillo_May_2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'castc583@newschool.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a PhD candidate of economics at the New School for Social Research and visiting doctoral student at the Paris School of Economics (PSE). I am a member of the Latin American Society of the History of Economic Thought (ALAHPE) and also a 2022 Summer Research Grantee of the History & Political Economy Project from the Arrighi Center for Global Studies and the SNF Agora Institute at Johns Hopkins University. My current research focuses on the history of neoliberalism, income inequality in the Andean region, and the economics of precarious work. One of my chapters is titled "Waves of Neoliberalism: Revisiting the Authoritarian Capitalism in South America". It explores how transnational intellectual networks have framed economic development and incepted neoliberal common sense in Peru since the 1940s. In my second project, "Long-run Income Inequality in 20th Century Peru", I intend to reconstruct the Distributional National Accounts (DINA) for Peru following the methodology of the World Inequality Lab at the PSE.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My most recent working papers are: "Waves of Neoliberalism: Revisiting the Authoritarian patterns of capitalism in South America (1940-1990), part I", "Factor Income Distribution and Capital Accumulation in Peru, 1940-2019", and "The crooked timber that bore fruit: Peruvian fascist intellectuals of the 1930s and the echoes of their influence nowadays". In 2022, I co-authored a book titled "Covid19: desempleo, desigualdad y precarización en el Perú 2020-2030" and an article in the journal Economía UNAM titled "Elevada desigualdad, pandemias, cambio tecnológico y desempleo: una reseña en tiempos del covid-19".
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
