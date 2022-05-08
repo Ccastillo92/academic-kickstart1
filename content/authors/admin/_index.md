@@ -14,7 +14,7 @@ organizations:
     url: https://www.newschool.edu/nssr/economics/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the history of neoliberalism, income inequality, and the economics of precarious work.
 
 # Interests to show in About widget
 interests:
