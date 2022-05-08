@@ -72,7 +72,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: uploads/resume.pdf
+   link: uploads/CV_Cesar Castillo_May_2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
