@@ -1,39 +1,50 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: César Castillo-García
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The New School for Social Research
+    url: https://www.newschool.edu/nssr/economics/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Income Inequality
+  - History of Economic Thought
+  - Economic History
+  - Labor Economics
+  - Philosophy of Economics and Political Philosophy
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: The New School for Social Research
+      year: (tentative) 2024
+    - course: Visiting PhD Student
+      institution: Paris School of Economics - World Inequality Lab
+      year: 2022
+    - course: MA in Economics
+      institution: The New School for Social Research
+      year: 2021
+    - course: Graduate Studies in Philosophy
+      institution: Pontificia Universidad Católica del Perú
+      year: 2019
+    - course: Master in Economics
+      institution: Universidad del Pacífico
+      year: 2015
+    - course: BA in Economics
+      institution: Universidad del Pacífico
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,13 +56,13 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/CsarCastillo25
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=jVYLkmsAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Ccastillo92
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -59,9 +70,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
